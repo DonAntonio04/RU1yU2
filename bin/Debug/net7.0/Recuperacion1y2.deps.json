@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Recuperacion1y2/1.0.0": {
+        "runtime": {
+          "Recuperacion1y2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recuperacion1y2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

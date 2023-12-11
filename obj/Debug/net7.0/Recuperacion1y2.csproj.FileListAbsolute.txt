@@ -1,0 +1,15 @@
+C:\Users\cd13\Documents\RECUPERACION2\Recuperacion1y2\bin\Debug\net7.0\Recuperacion1y2.exe
+C:\Users\cd13\Documents\RECUPERACION2\Recuperacion1y2\bin\Debug\net7.0\Recuperacion1y2.deps.json
+C:\Users\cd13\Documents\RECUPERACION2\Recuperacion1y2\bin\Debug\net7.0\Recuperacion1y2.runtimeconfig.json
+C:\Users\cd13\Documents\RECUPERACION2\Recuperacion1y2\bin\Debug\net7.0\Recuperacion1y2.dll
+C:\Users\cd13\Documents\RECUPERACION2\Recuperacion1y2\bin\Debug\net7.0\Recuperacion1y2.pdb
+C:\Users\cd13\Documents\RECUPERACION2\Recuperacion1y2\obj\Debug\net7.0\Recuperacion1y2.csproj.AssemblyReference.cache
+C:\Users\cd13\Documents\RECUPERACION2\Recuperacion1y2\obj\Debug\net7.0\Recuperacion1y2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd13\Documents\RECUPERACION2\Recuperacion1y2\obj\Debug\net7.0\Recuperacion1y2.AssemblyInfoInputs.cache
+C:\Users\cd13\Documents\RECUPERACION2\Recuperacion1y2\obj\Debug\net7.0\Recuperacion1y2.AssemblyInfo.cs
+C:\Users\cd13\Documents\RECUPERACION2\Recuperacion1y2\obj\Debug\net7.0\Recuperacion1y2.csproj.CoreCompileInputs.cache
+C:\Users\cd13\Documents\RECUPERACION2\Recuperacion1y2\obj\Debug\net7.0\Recuperacion1y2.dll
+C:\Users\cd13\Documents\RECUPERACION2\Recuperacion1y2\obj\Debug\net7.0\refint\Recuperacion1y2.dll
+C:\Users\cd13\Documents\RECUPERACION2\Recuperacion1y2\obj\Debug\net7.0\Recuperacion1y2.pdb
+C:\Users\cd13\Documents\RECUPERACION2\Recuperacion1y2\obj\Debug\net7.0\Recuperacion1y2.genruntimeconfig.cache
+C:\Users\cd13\Documents\RECUPERACION2\Recuperacion1y2\obj\Debug\net7.0\ref\Recuperacion1y2.dll
